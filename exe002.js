@@ -66,11 +66,5 @@ function fun(){
 
 /* *********LAÇOS********* */
 /* FOR */
-function func(){
-    let itgo = 0 
 
-    for(itgo = 0; itgo < 10; itgo ++){
-            alert("O Valor de ItGo = " + itgo)
-    }
-}
 
