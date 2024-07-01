@@ -22,9 +22,22 @@ function func() {
 
 }
 
+/* REVISANDO LAÇO */
 
 
-/* FUNÇÃO */
+function funcao(){
+
+    var entrada = ["Banana", "Maçã", "Pêra"]
+
+
+}
+
+
+
+
+
+
+
 
 
 
